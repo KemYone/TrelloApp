@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TrelloApp
+namespace WindowsFormsApp3
 {
     public class TrelloCard
     {
@@ -12,7 +12,8 @@ namespace TrelloApp
         public int CheckedItems { get; set; }
         public int TotalItems { get; set; }
         public string Link { get; set; }
-        public TrelloCard Next { get; set; }
+
+        // ĐÃ XÓA SỢI DÂY "Next" CŨ. TrelloCard giờ chỉ là 1 kho lưu dữ liệu thuần túy.
 
         public TrelloCard(string title, string label, string labelColor,
                           string member, int checkedItems = 0, int totalItems = 0,
@@ -26,7 +27,6 @@ namespace TrelloApp
             CheckedItems = checkedItems;
             TotalItems = totalItems;
             Link = link ?? "";
-            Next = null;
         }
     }
 }
