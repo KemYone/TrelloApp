@@ -13,8 +13,6 @@ namespace WindowsFormsApp3
         public int TotalItems { get; set; }
         public string Link { get; set; }
 
-        // ĐÃ XÓA SỢI DÂY "Next" CŨ. TrelloCard giờ chỉ là 1 kho lưu dữ liệu thuần túy.
-
         public TrelloCard(string title, string label, string labelColor,
                           string member, int checkedItems = 0, int totalItems = 0,
                           string link = "")
