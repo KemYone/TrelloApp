@@ -1,9 +1,9 @@
 Bảng Phân Công Nhóm
- ----------------------------------------------------------------------------------------------------------
-| STT | Thành viên              | Nhiệm vụ chính             | Nhiệm vụ phụ                              |
- ----------------------------------------------------------------------------------------------------------
-| 1   | Phan Đàm Tùng Sơn       | Viết code, Kiểm tra code   | check lại nội dung bài báo cáo            |
-| 2   | Nguyễn Anh Ngọc         | Báo cáo code               | Soạn bài báo cáo, viết nội dung           |
-| 3   | Võ Tuấn Kiệt            | Thuyết trình               | Viết nội dung báo cáo                     |
-| 4   | Phạm Thị Hải Châu       | Thiết kế PowerPoint        | Viết nội dung báo cáo, kiểm tra code      |
- ----------------------------------------------------------------------------------------------------------
+ -------------------------------------------------------------------------------------------------------------------------------------
+| STT | Thành viên              | Nhiệm vụ chính                                          | Nhiệm vụ phụ                              |
+ -------------------------------------------------------------------------------------------------------------------------------------
+| 1   | Phan Đàm Tùng Sơn       | Code Tích hợp & Logic, Kiểm tra code                    | check lại nội dung bài báo cáo            |
+| 2   | Nguyễn Anh Ngọc         | Báo cáo code, Code cấu trúc dữ liệu lõi                 | Soạn bài báo cáo, viết nội dung           |
+| 3   | Võ Tuấn Kiệt            | Thuyết trình, Code đồ họa giao diện (GDI+)              | Viết nội dung báo cáo                     |
+| 4   | Phạm Thị Hải Châu       | Code giao diện phụ (WinForms)                           | Viết nội dung báo cáo, kiểm tra code      |
+ -------------------------------------------------------------------------------------------------------------------------------------
